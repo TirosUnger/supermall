@@ -1,6 +1,6 @@
 <template>
   <div class="back-top">
-    <img src="~assets/img/common/top.svg">
+    <img src="~assets/img/common/top.png">
   </div>
 </template>
 
@@ -13,7 +13,7 @@
 <style>
   .back-top {
     position: fixed;
-    right: 8px;
-    bottom: 50px;
+    right: 5px;
+    bottom: 45px;
   }
 </style>
